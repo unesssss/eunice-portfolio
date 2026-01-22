@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
-    <footer className="py-12 px-6 bg-zinc-900 text-zinc-300">
-      <div className="max-w-5xl mx-auto text-center space-y-4">
+    <footer className="py-16 px-6 bg-zinc-900 text-zinc-300">
+      <div className="max-w-5xl mx-auto text-center space-y-6">
         <p>📍 Cavite, Philippines</p>
 
         <p>
@@ -17,10 +17,9 @@ export default function Footer() {
         <a
           href="https://www.linkedin.com/in/eunice-ope%C3%B1a/"
           target="_blank"
-          rel="noopener noreferrer"
           className="hover:underline"
         >
-          LinkedIn
+          LinkedIn – Eunice Opeña
         </a>
 
         <p className="text-sm text-zinc-500 pt-6">

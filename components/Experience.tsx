@@ -4,14 +4,12 @@ export default function Experience() {
       <div className="max-w-5xl mx-auto">
         <h2 className="text-3xl font-semibold mb-10">Experience</h2>
 
-        <div className="space-y-8">
+        <div className="space-y-10">
           <div>
             <h3 className="text-xl font-medium">
-              UI/UX Designer & Frontend Developer
+              UI/UX Designer & Front-end Developer
             </h3>
-            <p className="text-zinc-600">
-              CloudSensei
-            </p>
+            <p className="text-zinc-600">CloudSensei</p>
             <p className="mt-2 text-zinc-500">
               Designed Dash2Career, a career path navigator for tech enthusiasts.
             </p>
